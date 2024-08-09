@@ -5,4 +5,4 @@
 
 3. pip install requirements.txt
 
-4. streamlit run app.py
+4. streamlit run newapp.py
